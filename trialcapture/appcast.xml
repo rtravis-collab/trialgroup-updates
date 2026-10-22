@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>TrialCapture updates</title>
+    <item>
+      <title>Version 1.0.0</title>
+      <pubDate>Thu, 22 Oct 2026 10:14:39 GMT</pubDate>
+      <sparkle:version>10000</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialcapture-v1.0.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialcapture-v1.0.0/TrialCapture-1.0.0.zip" sparkle:edSignature="6iz4IDjc/HiGMkaobTiu7FkNMJuad8qK0I6tNx/Fr5k7Px2JBcG6hB7wrF61ISPSu1bY7Uoxl/xEt0o1TiCWBg==" length="2032509" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
