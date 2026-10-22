@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Trial Stamp updates</title>
+    <item>
+      <title>Version 0.6.0</title>
+      <pubDate>Thu, 22 Oct 2026 09:58:39 GMT</pubDate>
+      <sparkle:version>600</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialstamp-v0.6.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialstamp-v0.6.0/TrialStamp-0.6.0.zip" sparkle:edSignature="mOiEsMZiLgG2QFPOZUh+kpoBRIiG85dKcjZxxBVU8O/x45Gn3MPTtQ8LffMEhX3Dhji4g5owiqEyWIApOr9RBw==" length="6164794" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
