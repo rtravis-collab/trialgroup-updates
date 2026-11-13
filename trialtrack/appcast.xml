@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>TrialTrack updates</title>
+    <item>
+      <title>Version 0.2.0</title>
+      <pubDate>Fri, 13 Nov 2026 18:49:21 GMT</pubDate>
+      <sparkle:version>200</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialtrack-v0.2.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialtrack-v0.2.0/TrialTrack-0.2.0.zip" sparkle:edSignature="awAs4l0icTPfw52xXjyzRnmH60JQoRCPSb36wVzEdXtQHFoe7PR9J29h1PTiXk612Ag5SJTK4Euy0to9/gdIAg==" length="6556444" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
