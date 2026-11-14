@@ -3,6 +3,15 @@
   <channel>
     <title>Trial Stamp updates</title>
     <item>
+      <title>Version 0.7.0</title>
+      <pubDate>Sat, 14 Nov 2026 03:36:23 GMT</pubDate>
+      <sparkle:version>700</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialstamp-v0.7.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialstamp-v0.7.0/TrialStamp-0.7.0.zip" sparkle:edSignature="NIT5j3qAXTR6q4gF/mf5YS1lFIxKJjFQjKiNAvqdHEKHet6ZCPzmbJxDv02gnGoeskWD1zxPO3CF1T5rdldmDQ==" length="6452672" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.6.0</title>
       <pubDate>Thu, 22 Oct 2026 09:58:39 GMT</pubDate>
       <sparkle:version>600</sparkle:version>
