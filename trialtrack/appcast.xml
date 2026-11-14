@@ -3,6 +3,15 @@
   <channel>
     <title>TrialTrack updates</title>
     <item>
+      <title>Version 0.6.0</title>
+      <pubDate>Sat, 14 Nov 2026 04:43:13 GMT</pubDate>
+      <sparkle:version>600</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialtrack-v0.6.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialtrack-v0.6.0/TrialTrack-0.6.0.zip" sparkle:edSignature="fXoL3uuHWKOo3RvZ8qgwQ3TRADotNG1yNEGkNeyeP/kbbcOzaW7NEfcNZ4cjUxC8lHJO76R71Wus/ucOUd98Bw==" length="8658790" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.5.0</title>
       <pubDate>Sat, 14 Nov 2026 03:51:44 GMT</pubDate>
       <sparkle:version>500</sparkle:version>
