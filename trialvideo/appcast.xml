@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Trial Video updates</title>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Sat, 14 Nov 2026 03:35:29 GMT</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialvideo-v0.1.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialvideo-v0.1.0/TrialVideo-0.1.0.zip" sparkle:edSignature="bw8bSCJLJ+pkVK1x/WdqE66NDZhX8ZS6Fbf8KQ3RISwx7d7fwWodrEl5zIIfEBSXNZt3tsVjQXTiiFQtJUvlDw==" length="2618264" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
