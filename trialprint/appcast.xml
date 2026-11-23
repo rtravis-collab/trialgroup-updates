@@ -3,6 +3,15 @@
   <channel>
     <title>Trial Print updates</title>
     <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Mon, 23 Nov 2026 16:32:36 GMT</pubDate>
+      <sparkle:version>10001</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialprint-v1.0.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialprint-v1.0.1/TrialPrint-1.0.1.zip" sparkle:edSignature="SOz4XSopv2jD83Qky7cN4T0Y6jRnmPmg1t1MWUVWSeai83ixRmFv+U94FU8w1M3oEPqrEXD5u0mjDAmbQ3c0DA==" length="9299638" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <pubDate>Fri, 20 Nov 2026 04:55:03 GMT</pubDate>
       <sparkle:version>10000</sparkle:version>
