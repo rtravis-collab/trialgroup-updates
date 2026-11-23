@@ -3,6 +3,15 @@
   <channel>
     <title>Trial Video updates</title>
     <item>
+      <title>Version 0.2.2</title>
+      <pubDate>Mon, 23 Nov 2026 05:14:47 GMT</pubDate>
+      <sparkle:version>202</sparkle:version>
+      <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialvideo-v0.2.2</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialvideo-v0.2.2/TrialVideo-0.2.2.zip" sparkle:edSignature="pWGxTMM+hXZ7DEWpusT2Wo4u6Kb2bEtPTsIHPdtfVdXEmxJaQNQZm0d7P6HzDLk2mqbbee5cG5jgbtoD/8d1Dg==" length="3893087" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.2.1</title>
       <pubDate>Sat, 14 Nov 2026 05:45:43 GMT</pubDate>
       <sparkle:version>201</sparkle:version>
