@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>TrialVault updates</title>
+    <item>
+      <title>Version 0.1.0</title>
+      <pubDate>Tue, 24 Nov 2026 05:29:14 GMT</pubDate>
+      <sparkle:version>100</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/rtravis-collab/trialgroup-updates/releases/tag/trialvault-v0.1.0</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/rtravis-collab/trialgroup-updates/releases/download/trialvault-v0.1.0/TrialVault-0.1.0.zip" sparkle:edSignature="PyXuA5KILVdMPnFMb4Vp6IF/LEe0i44zaaT8SoN+fmJfi73HfHvy+Rb5YzPVO460tRJjk1h5yc1i8nWM4vVJDw==" length="6071972" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
